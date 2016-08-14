@@ -2,7 +2,7 @@
 Système pour changer de site local  
 Testé sous Debian
 
-** Attention ! Ce script supprime /var/www/html ! Sauvegardez votre dossier autre part.**
+**Attention ! Ce script supprime /var/www/html ! Sauvegardez votre dossier autre part.**
   
 ## Pour lancer le script :  
 chmod +x switch.sh  
