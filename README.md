@@ -1,4 +1,4 @@
-# Autolog.sh
+# Switch.sh
 Système pour changer de site local  
 Testé sous Debian
   
