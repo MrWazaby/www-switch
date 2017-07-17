@@ -8,4 +8,4 @@ Testé sous Debian
 chmod +x switch.sh  
 sudo ./switch.sh  /le/dossier/de/votre/site
 
-Puis redez vous sur http://localhost :)
+Puis rendez vous sur http://localhost :)
